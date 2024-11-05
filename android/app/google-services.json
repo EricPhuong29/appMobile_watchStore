@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359043273267",
+    "project_id": "watch-store-78819",
+    "storage_bucket": "watch-store-78819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359043273267:android:987f24e8b81875d84d0946",
+        "android_client_info": {
+          "package_name": "com.flutter.base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxO_1yPOIovDXnSAr4kmCa8k4F2NRXC_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
